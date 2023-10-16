@@ -10,10 +10,6 @@ A battle game written in C programming language, leveraging the power of the [Al
 
 ## Screenshots
 
-![stickman_war](https://github.com/elvis027/Introduction-to-Programming-Final-Project/blob/main/demo/stickman_war.PNG)
-
-![scene](https://github.com/elvis027/Introduction-to-Programming-Final-Project/blob/main/demo/start.PNG)
-
-![fighting1](https://github.com/elvis027/Introduction-to-Programming-Final-Project/blob/main/demo/fighting1.gif)
-
-![fighting2](https://github.com/elvis027/Introduction-to-Programming-Final-Project/blob/main/demo/fighting2.gif)
+| ![](demo/stickman_war.PNG) | ![](demo/start.PNG) |
+| --- | --- |
+| ![](demo/fighting1.gif) | ![](demo/fighting2.gif) |
